@@ -57,7 +57,7 @@ AudioEditor is designed to provide users with a simple and intuitive web-based i
 #### Clone the Repository:
 
 ```bash
-git clone https://github.com/your-username/AudioEditor.git
+git clone https://github.com/ItzMeAshwin/Audio_editor.git
 ```
 
 #### Run the Application:
