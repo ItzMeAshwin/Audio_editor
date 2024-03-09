@@ -1,10 +1,10 @@
 # AudioEditor Web App
 
-Welcome to AudioEditor, a web-based audio editing tool that allows you to easily and quickly edit your audio files directly in your web browser. Please note that this version is experimental and has limited functionality. The project is no longer actively maintained, and the repository is outdated, requiring major refactoring. However, contributions in the form of fixes or new features through pull requests are welcome.
+Welcome to AudioEditor, a web-based audio editing tool that allows you to easily and quickly edit your audio files directly in your web browser.
 
 ## Project Information
 
-This project is no longer actively maintained by the original author. The repository is outdated, and substantial refactoring is needed for optimal performance. Despite this, users are encouraged to contribute by providing fixes or implementing new features through pull requests. Your contributions will be greatly appreciated.
+AudioEditor is a web-based audio editing tool that empowers users to effortlessly edit their audio files directly within their web browsers. With features such as waveform visualization, multitrack editing, and manipulable audio clips, this tool offers a user-friendly interface for tasks like cutting, copying, pasting, and deleting audio segments. Explore the world of online audio editing with AudioEditor, making the process easy and accessible for users of all levels.
 
 ## Features
 
